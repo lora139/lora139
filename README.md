@@ -9,4 +9,4 @@ I have graduated high school as a system programmer. I have a professional quali
 *   🌍  I'm based in the Netherlands
 *   ✉️  You can contact me at [loloio.dim@gmail.com](mailto:loloio.dim@gmail.com)
 *   🧠  I'm learning persuasive communication
-*   ⚡  I want to take a Google certificated course in UX/UI design### Skills
+*   ⚡  I want to take a Google certificated course in UX/UI design
